@@ -59,3 +59,5 @@ The original engineering repository remains private.
 This repository contains **sanitized public proof only**. The confidential delivery/source repository remains private. Implementation source, client identity, credentials, private infrastructure, payment/contract details, private conversations, and protected raw evidence are intentionally excluded.
 
 Public claims here are limited to the evidence-backed engineering information documented in this repository.
+
+<!-- Public showcase safety baseline enabled. -->
