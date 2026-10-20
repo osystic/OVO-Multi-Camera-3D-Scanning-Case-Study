@@ -12,6 +12,16 @@ The private solution uses a native C++ core for RealSense acquisition and recons
 
 The delivery includes camera management, reconstruction interfaces, diagnostics, calibration/capture workflow, export/reporting support, build/runbook documentation and handover governance.
 
+## Technology stack
+
+- Native C++
+- Intel RealSense depth-camera integration
+- .NET 8
+- WPF
+- Visual Studio
+- Windows desktop deployment
+- GitHub Actions CI
+
 ## E — Evidence & outcomes
 
 Private source, CI, handover releases and validation procedures verify the implemented architecture and delivery controls. Hardware-dependent outcomes remain bounded by the licensed SDK and physical-rig validation environment.
